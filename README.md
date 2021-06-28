@@ -1,2 +1,2 @@
 # Diplomado-IoT
-Este repositorio contiene informacion de programas
+Tutorial básico de Git para Código IoT
